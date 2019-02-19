@@ -1,0 +1,66 @@
+﻿  API.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\condition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(256): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(318): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(333): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(334): warning C4018: “<”: 有符号/无符号不匹配
+  BPlusTree.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.cpp(352): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  BufferManager.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\buffermanager.cpp(128): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\new\new3\db\宇宙最强版\minisql\minisql\buffermanager.cpp(244): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  CatalogManager.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\catalogmanager.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\catalogmanager.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\catalogmanager.cpp(186): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\catalogmanager.cpp(250): warning C4018: “<”: 有符号/无符号不匹配
+  FileNode.cpp
+  IndexManager.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h(500): note: 编译 类 模板 成员函数 "void BPlusTree<int>::Inver_ParseIndex(char *)" 时
+  d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h(117): note: 参见对正在编译的函数 模板 实例化“void BPlusTree<int>::Inver_ParseIndex(char *)”的引用
+  d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h(582): note: 编译 类 模板 成员函数 "BPlusTree<int>::BPlusTree(std::string,int,int,int)" 时
+  d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.cpp(72): note: 参见对正在编译的函数 模板 实例化“BPlusTree<int>::BPlusTree(std::string,int,int,int)”的引用
+  d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.h(12): note: 参见对正在编译的 类 模板 实例化 "BPlusTree<int>" 的引用
+  Interpreter.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\interpreter.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\interpreter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\condition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\interpreter.cpp(23): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\interpreter.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\condition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\indexmanager.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\bplustree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Record_Manager.cpp
+d:\new\new3\db\宇宙最强版\minisql\minisql\condition.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\new\new3\db\宇宙最强版\minisql\minisql\record_manager.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\new\new3\db\宇宙最强版\minisql\minisql\record_manager.cpp(63): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\record_manager.cpp(65): warning C4018: “<”: 有符号/无符号不匹配
+d:\new\new3\db\宇宙最强版\minisql\minisql\record_manager.cpp(78): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(266): note: 参见“strncat”的声明
+d:\new\new3\db\宇宙最强版\minisql\minisql\record_manager.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+d:\new\new3\db\宇宙最强版\minisql\minisql\api.cpp(224): warning C4700: 使用了未初始化的局部变量“KeyType”
+  MiniSQL.vcxproj -> D:\New\New3\DB\宇宙最强版\MiniSQL\Debug\MiniSQL.exe
